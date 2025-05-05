@@ -8,9 +8,9 @@ När skriptet startas så kommer det frågas att ange ett namn, detta kommer bli
 I Mappen logs skapas det ett loggfil och den kommer innehålla exat datum på när strukturen skapades.
 
 ## Instruktioner - flera sätt
-ladda ner filen och gå till downloads. Där högerklickar du på filen och kör med powershell.
-   eller
-starta genom terminalen, cd till där filen finns och skriv /.strukturverktyg.ps1
+- ladda ner filen och gå till downloads. Där högerklickar du på filen och kör med powershell.
+
+- starta genom terminalen, cd till där filen finns och skriv /.strukturverktyg.ps1
 
 
 ## Reflektion 
