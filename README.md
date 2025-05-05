@@ -16,5 +16,5 @@ I Mappen logs skapas det ett loggfil och den kommer innehålla exat datum på n�
 ## Reflektion 
 Jag tyckte det var svårt att förstå hur Read-Host fungerade i början, trodde att om jag använde #name = Read-Host så skulle det man skriver inom citat tecken vara mitt variablen först.
 Det andra saken jag tycker är svårt är att veta hur kapabel powershell är, som ny vet man inte riktigt vart gränserna går och det blir tutorial hell.
-En del av sakerna i skriptet känner man igen som New-item och Get-Date vilket är ett sort cmdlet. 
+En del av sakerna känner man igen som New-item och Get-Date vilket är ett sort cmdlet vilket hjälpte mycket till att göra ett färdig skript. 
 Slutligen tycker jag att detta var roligt och givande. 
